@@ -45,8 +45,7 @@ cd your-repo</code></pre>
     <li>Alternatively, you can enter the API key interactively when running the script.</li>
 </ul>
 
-<h3>4. Run the Script</h3>
-<pre><code>python your_script_name.py</code></pre>
+
 
 <h2>Usage</h2>
 <p>The script will load a blog post, process it, and allow you to ask questions. For example:</p>
