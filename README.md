@@ -104,7 +104,11 @@ print(response["answer"])</code></pre>
 <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 
-https://github.com/user-attachments/assets/14c5b9e8-bde1-4646-8ec3-8e15414c497f
+
+
+
+https://github.com/user-attachments/assets/cd2e12fe-a50e-41d3-a718-c6629a882720
+
 
 
 </body>
