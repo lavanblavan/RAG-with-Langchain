@@ -31,8 +31,8 @@
 <h2>Setup</h2>
 
 <h3>1. Clone the Repository</h3>
-<pre><code>git clone https://github.com/your-username/your-repo.git
-cd your-repo</code></pre>
+<pre><code>git clone https://github.com/lavanblavan/RAG-with-Langchain.git
+cd RAG-with-Langchain</code></pre>
 
 <h3>2. Install Dependencies</h3>
 <pre><code>pip install -r requirements.txt</code></pre>
